@@ -78,7 +78,7 @@ describe("Conway's Game of Life", () => {
             boundContains([2, 1]) ||
             boundContains([3, 3])
           ),
-        "Have you implemented a check that the passed cell is in the passed game state?"
+        "Have you implemented a check that the passed cell is in the passed game state? **"
       );
     });
   });
